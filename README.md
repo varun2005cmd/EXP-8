@@ -141,6 +141,8 @@ return 0;
 
 ### Output: - 
 
+![image](https://github.com/user-attachments/assets/7a82caa3-1344-40a9-9e91-7fcc2b81bb77)
+
 
 
 ### Conclusion: -
